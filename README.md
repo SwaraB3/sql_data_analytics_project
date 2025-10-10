@@ -11,4 +11,5 @@ This repository contains SQL queries designed to help data analysts and BI profe
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
+Hi! I’m Swaranjali Bodhi, a final-year Artificial Intelligence and Data Science student. I’m passionate about data analytics, SQL, and turning complex data into actionable insights. This project showcases my skills in SQL scripting, data exploration, and reporting, and reflects my focus on building efficient and insightful analytical workflows.
 
